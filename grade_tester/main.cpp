@@ -38,7 +38,7 @@ int main() {
 
             } // end of if
 
-            if (grade < 0) {
+            if (grade < 0 ||| grade > 100) {
                 std::cout << "Error: please enter a valid grade:";
                 continue;
 
