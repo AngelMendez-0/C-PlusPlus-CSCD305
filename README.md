@@ -12,3 +12,6 @@ C++ program demonstrating user input handling, loops, and basic statistics by co
 
 ### Constructor_FriendClasses
 This project models a country’s cylindrical airspace using object-oriented design in C++, with classes representing 3D points, the airspace boundary, and radar detection. It determines whether an enemy aircraft violates the airspace by checking its position relative to the defined cylindrical region. The goal was to understand *Constructors* and *Friend Classes* and their utalization across multiple files.
+
+### Assorted_Chocolates&Boxes
+C++ implementation of a Chocolate and ChocolateBox class system featuring delegating constructors, Rule of Five, dynamic 2D arrays, and overloaded operators for combining, comparing, and printing assorted chocolate boxes
