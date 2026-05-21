@@ -15,3 +15,6 @@ This project models a country’s cylindrical airspace using object-oriented des
 
 ### Assorted_Chocolates&Boxes
 C++ implementation of a Chocolate and ChocolateBox class system featuring delegating constructors, Rule of Five, dynamic 2D arrays, and overloaded operators for combining, comparing, and printing assorted chocolate boxes
+
+### Assignment4_Solution
+C++ program that parses a 3D terrain file to map connectivity between 46 cities on an island using STL containers and file I/O.
