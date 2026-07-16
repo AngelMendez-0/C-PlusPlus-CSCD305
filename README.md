@@ -18,3 +18,12 @@ C++ implementation of a Chocolate and ChocolateBox class system featuring delega
 
 ### Assignment4_Solution
 C++ program that parses a 3D terrain file to map connectivity between 46 cities on an island using STL containers and file I/O.
+
+### Radar & Airspace (Interception Detection)
+A C++ program modeling radar-based airspace violation detection. Built from three cooperating classes: `Point3D` (a 3D coordinate/vector supporting addition, subtraction, and magnitude), `Airspace` (a cylindrical no-fly zone defined by a radius, height, and center point), and `Radar` (a positioned sensor that checks whether an object violates a given airspace). Demonstrates class design, encapsulation with getters/setters, and method chaining via reference-returning setters, driven by an interactive tester.
+
+### Assorted Chocolates & Boxes
+A C++ exercise in operator overloading and dynamic memory management. The `Chocolate` class (type and cocoa percentage) uses delegating constructors, a copy constructor, and overloaded operators (==, +, !, <<, >>). The `ChocolateBox` class manages a 2D dynamic array of Chocolate pointers (Chocolate**) and implements the full rule of five (copy/move constructors, copy/move assignment, and destructor) for safe deep copying, along with its own overloaded operators. Includes a test driver.
+
+### Doubly Linked List (Smart Pointers)
+A generic doubly linked list implemented in C++ with templates and smart pointers. The templated `Node<T>` holds a shared_ptr to the next node and a weak_ptr to the previous node, deliberately breaking the reference cycle that would otherwise cause a memory leak. The driver builds both string and integer lists, prints them forward and in reverse, and demonstrates automatic RAII-based cleanup as nodes fall out of scope.
