@@ -1,0 +1,3 @@
+C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug/CMakeFiles/AngelMendezCSCD305_Lab7.dir
+C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

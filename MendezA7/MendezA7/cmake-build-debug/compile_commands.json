@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AngelMendezCSCD305_Lab7.dir\\DoublyLinkedList.cpp.obj -c C:\\Users\\AMend\\CLionProjects\\MendezA7\\DoublyLinkedList.cpp",
+  "file": "C:/Users/AMend/CLionProjects/MendezA7/DoublyLinkedList.cpp",
+  "output": "C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug/CMakeFiles/AngelMendezCSCD305_Lab7.dir/DoublyLinkedList.cpp.obj"
+},
+{
+  "directory": "C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AngelMendezCSCD305_Lab7.dir\\Node.cpp.obj -c C:\\Users\\AMend\\CLionProjects\\MendezA7\\Node.cpp",
+  "file": "C:/Users/AMend/CLionProjects/MendezA7/Node.cpp",
+  "output": "C:/Users/AMend/CLionProjects/MendezA7/cmake-build-debug/CMakeFiles/AngelMendezCSCD305_Lab7.dir/Node.cpp.obj"
+}
+]

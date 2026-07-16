@@ -1,0 +1,3 @@
+C:/Users/AMend/CLionProjects/MendezA_L2/cmake-build-debug/CMakeFiles/MendezA_L2.dir
+C:/Users/AMend/CLionProjects/MendezA_L2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AMend/CLionProjects/MendezA_L2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

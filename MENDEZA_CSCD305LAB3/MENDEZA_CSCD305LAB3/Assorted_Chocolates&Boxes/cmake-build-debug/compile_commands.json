@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Assignment3.dir\\Chocolate.cpp.obj -c \"C:\\Users\\AMend\\OneDrive\\Documents\\MENDEZA_CSCD305LAB3\\Assorted_Chocolates&Boxes\\Chocolate.cpp\"",
+  "file": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/Chocolate.cpp",
+  "output": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug/CMakeFiles/Assignment3.dir/Chocolate.cpp.obj"
+},
+{
+  "directory": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Assignment3.dir\\Chocolatebox.cpp.obj -c \"C:\\Users\\AMend\\OneDrive\\Documents\\MENDEZA_CSCD305LAB3\\Assorted_Chocolates&Boxes\\Chocolatebox.cpp\"",
+  "file": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/Chocolatebox.cpp",
+  "output": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug/CMakeFiles/Assignment3.dir/Chocolatebox.cpp.obj"
+},
+{
+  "directory": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Assignment3.dir\\test_chocolate_box.cpp.obj -c \"C:\\Users\\AMend\\OneDrive\\Documents\\MENDEZA_CSCD305LAB3\\Assorted_Chocolates&Boxes\\test_chocolate_box.cpp\"",
+  "file": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/test_chocolate_box.cpp",
+  "output": "C:/Users/AMend/OneDrive/Documents/MENDEZA_CSCD305LAB3/Assorted_Chocolates&Boxes/cmake-build-debug/CMakeFiles/Assignment3.dir/test_chocolate_box.cpp.obj"
+}
+]
